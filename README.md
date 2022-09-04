@@ -1,11 +1,11 @@
 ```java
 public class bixDev extends Developer {
-
   public bixDev(){
     super("bixgamer707", "Colombia", null);
-    
-    addLanguage("Java");
-    
+    init();
+  }
+  
+  public void init(){
     addExperiences(
       "Spigot API", 
       "Configurator", 
@@ -14,7 +14,6 @@ public class bixDev extends Developer {
       "Bungee API"
     );
   }
-}
 
 public abstract class Developer {
 
