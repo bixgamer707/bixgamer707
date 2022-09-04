@@ -13,18 +13,21 @@ public class bixDev extends Developer {
       "Texture Pack Creator",
       "Bungee API"
     );
+
+    addLanguage(
+      "Java"
+    );
   }
 
 public abstract class Developer {
 
+  private final Set<String> languages = new HashSet<>();
+  private final Set<String> experiences = new HashSet<>();
   @Getter private final String nickname;
   @Getter private final String country;
   @Getter private final int age;
 
-  private final Set<String> languages = new HashSet<>();
-  private final Set<String> experiences = new HashSet<>();
-
-  public GitHubUser(
+  public Developer(
       String nickname, 
       String country, 
       int age
