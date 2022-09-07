@@ -8,5 +8,4 @@
 
 [![bixDev GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=bixgamer707.readme.visitor-badge)](https://github.com/bixgamer707/) 
 
-[![bixDev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bixgamer707)](https://github.com/bixgamer707/github-re
 
