@@ -24,27 +24,26 @@ Un apasionado del desarrollo de software y la programación. Me gusta construir 
 
 ### 📊 Mis Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bixgamer707&show_icons=true&theme=radical&hide_border=true" alt="bixDev Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bixgamer707&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="165" />
-</div>
-
-<br />
-
-<div align="center">
-  [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bixgamer707.readme.visitor-badge)](https://github.com/bixgamer707/)
-  [![Wakatime Badge](https://wakatime.com/badge/user/70efda3c-cb64-496c-9511-af5a94076015.svg)](https://wakatime.com/@70efda3c-cb64-496c-9511-af5a94076015)
-</div>
+<p align="center">
+  <a href="https://github.com/bixgamer707/">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=bixgamer707.readme.visitor-badge" alt="Visitor Badge" />
+  </a>
+  <a href="https://wakatime.com/@70efda3c-cb64-496c-9511-af5a94076015">
+    <img src="https://wakatime.com/badge/user/70efda3c-cb64-496c-9511-af5a94076015.svg" alt="Wakatime Badge" />
+  </a>
+</p>
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-* **[Nombre de tu App Móvil]**: Aplicación desarrollada con Flutter y Dart.
-* **[Nombre de otro Proyecto]**: Breve descripción de lo que realiza.
+* **[Odo]**: Aplicación desarrollada con Flutter y Dart para escuchar musica.
+* **[Akces]**: Ecommerce completamente funcional usando base de datos y conexion con Google completamente funcional.
+## 
 
 ---
 
 ### 📫 ¡Contáctame!
 
 * **GitHub**: [@bixgamer707](https://github.com/bixgamer707)
+* **Discrod**: @bixgamer707
