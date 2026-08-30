@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Miguel (bixDev)
 
-Un apasionado del desarrollo de software y la programación. Me gusta construir aplicaciones móviles y web, automatizar tareas y explorar nuevas tecnologías.
+Me gusta construir aplicaciones móviles y web, automatizar tareas y explorar nuevas tecnologías.
 
 ---
 
